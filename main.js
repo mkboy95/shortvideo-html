@@ -1,10 +1,10 @@
 /**
  *@Author: JH-Ahua
  *@CreateTime: 2026/1/15 下午15:37
- *@email: admin@bugpk.com
+ *@email: admin@202597.com
  *@blog: www.jiuhunwl.cn
  *@Api: api.bugpk.com
- *@tip: 短视频解析
+ *@tip: 超赞短视频解析
  */
 // 工具函数：验证URL
 function isValidUrl(url) {
